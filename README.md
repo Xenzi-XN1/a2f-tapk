@@ -24,7 +24,7 @@ python run.py
 # Tampilan awal script a2f-tapk
 ![img](https://github.com/Xenzi-XN1/a2f-tapk/blob/main/IMG_20230825_150400.jpg)
 # Hasil Dari script a2f-tapk (a2f tanpa apk auten)
-![img]()
+![img](https://github.com/Xenzi-XN1/a2f-tapk/blob/main/IMG_20230825_150437.jpg)
 
 ### requires the Termux application 
 get the Termux app on F-droid.org
