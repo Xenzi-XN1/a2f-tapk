@@ -22,7 +22,7 @@ python run.py
   - melindungi akun anda dengan code Pemulihan 
 
 # Tampilan awal script a2f-tapk
-![img]()
+![img](https://github.com/Xenzi-XN1/a2f-tapk/blob/main/IMG_20230825_150400.jpg)
 # Hasil Dari script a2f-tapk (a2f tanpa apk auten)
 ![img]()
 
